@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.blur-2 {
+  margin-top: 100vh;
+}
+
+.blur-3 {
+  margin-top: 200vh;
+  margin-left: 28rem;
+}
